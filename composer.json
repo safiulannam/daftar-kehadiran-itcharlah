@@ -1,0 +1,13 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29",
+        "rector/rector": "^0.17.6",
+        "rector/rector-phpoffice": "^0.14.0",
+        "tecnickcom/tcpdf": "^6.6"
+    },
+    "config": {
+        "platform": {
+            "php": "^8.0.2"
+        }
+    }
+}
